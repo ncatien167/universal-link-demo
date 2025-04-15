@@ -4,7 +4,7 @@
     "details": [
 {
                "appID":"VF4YMU966G.ops.namabank.com.vn",
-               "paths":[ "*", "/" ]
+               "paths": [ "/biometricShareInfo/*", "/vnpay/*", "/share/*", "/public/view/*" ]
            },
       {
                "appID":"VF4YMU966G.ops-uat.namabank.com.vn",
